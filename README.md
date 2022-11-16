@@ -1,7 +1,7 @@
-<h1 align="center"> Attendance-list-with-REACT </h1>
+<h1 align="center"> Login-and-Register-with-REACT </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto realizado para aprimorar meus conhecimentos em linguagem de programação com ênfase em REACT-JS.  
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Attendance list é um componente que simula a criação de um lista de presença de alunos em aulas ou eventos presenciais ou online. É possível adicionar participantes aos inputs e atualizar elementos HTML via REACT.
+O App de Login e Cadastro é um componente que simula a criação de um registro de usuário que servirá como porta de acesso para um site ou aplicativo online.
 
 ## :memo: Licença
 
